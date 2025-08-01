@@ -6,7 +6,7 @@
 * 🎯 Detect violations in uniform, grooming, or accessories
 * 📊 Real-time results and feedback
 * 🔒 Secure and privacy-respecting
-* ⚡ Fast, responsive, and mobile-friendly interface
+* ⚡ Fast, responsive, and not mobile-friendly interface
 
 ---
 
