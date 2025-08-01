@@ -23,7 +23,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ```bash
 git clone https://github.com/your-username/dresscan.git
-cd dresscan
+cd attire-scanner
+cd my-project
 npm install
 ```
 
